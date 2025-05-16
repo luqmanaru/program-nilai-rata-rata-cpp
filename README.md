@@ -3,10 +3,6 @@ Program C++ sederhana untuk menghitung nilai rata-rata dari tiga pertandingan ya
 
 ---
 
-Program sederhana berbasis C++ untuk menghitung nilai rata-rata dari tiga pertandingan yang diikuti oleh seorang siswa.
-
----
-
 ## 📌 Fitur
 - Input nama siswa
 - Input tiga nilai pertandingan
