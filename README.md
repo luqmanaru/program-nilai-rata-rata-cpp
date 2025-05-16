@@ -29,4 +29,5 @@ Siswa yang bernama Hanif memperoleh nilai rata-rata 85 dari hasil perlombaan yan
 ---
 
 **luqmanaru**
+
 Proyek ini bebas digunakan untuk tujuan edukatif.
